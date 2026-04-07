@@ -1,3 +1,5 @@
+🚀 A modern React Country Explorer with optimized API calls and dynamic routing.
+
 # 🌍 Country Explorer App
 
 ![React](https://img.shields.io/badge/React-18-blue?logo=react)
